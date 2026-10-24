@@ -165,7 +165,7 @@ Unter anderem:
 ```
 Presenters/
 Views/
-Repositories/
+Injections/
 Models/
 Services/
 Validation/
